@@ -1,5 +1,6 @@
 # Converter-design-and-simulation
-
+# Name : Preethi S
+# Register no : 212223230157
 # Aim
 To design and simulate AC to DC converter & DC voltage regulator using proteus.
 
